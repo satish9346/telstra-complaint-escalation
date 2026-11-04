@@ -1,0 +1,8 @@
+title: Telstra complaint escalation
+status: complete
+date: 2026-09
+summary: Why Telstra's complaints keep reaching the ombudsman even as complaint numbers fall, and what Telstra can control.
+headline_metric: "8.7% of complaints escalated vs 7.2% industry average"
+skills: [Python, pandas, Plotly, Tableau, Business intelligence, KPI design]
+image: figures/02_carriers.png
+demo: figures/dashboard.html

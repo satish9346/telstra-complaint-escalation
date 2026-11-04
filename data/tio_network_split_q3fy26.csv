@@ -1,0 +1,5 @@
+service_type,on_nbn,telstra_network
+Internet,223,54
+Landline,25,53
+Mobile,0,290
+Multiple,50,77
