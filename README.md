@@ -72,4 +72,4 @@ src/         analysis.py: reproduces every number and chart
 ## About
 
 Built by **Satish Kumar Reddy Gajjala** as part of the Master of Data Science at the University of Adelaide.
-[LinkedIn](https://www.linkedin.com/in/satish-reddy-gajjala-450150234/) · [GitHub](https://github.com/satish9346)
+[LinkedIn](https://www.linkedin.com/in/satish-kumar-reddy-gajjala-450150234/) · [GitHub](https://github.com/satish9346)
